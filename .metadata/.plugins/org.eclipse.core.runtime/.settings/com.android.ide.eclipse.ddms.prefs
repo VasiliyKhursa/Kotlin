@@ -1,0 +1,3 @@
+com.android.ide.eclipse.ddms.adbDebugBasePort=8701
+eclipse.preferences.version=1
+logcat.messagelist.max.size=500000
